@@ -1,0 +1,8 @@
+{
+  "name": "minecraft-mod-for-dapp3rcraft-draft",
+  "version": "1.0.0",
+  "description": "A dapp3rcraft mod made by moop7",
+  "keywords": [],
+  "main": "/index.html",
+  "dependencies": {}
+}

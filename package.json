@@ -4,5 +4,7 @@
   "description": "A dapp3rcraft mod made by moop7",
   "keywords": [],
   "main": "/index.html",
-  "dependencies": {}
+  "dependencies": {
+    "html": "1.0.0"
+  }
 }
